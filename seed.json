@@ -1,0 +1,114 @@
+{
+  "_about": "Example starting to-do list (the author's first real list, with notes removed). The test suite loads it. Load your own with: python -m dispatch import-seed",
+  "items": [
+    {
+      "title": "Return the Strimer Wireless 24-pin at Micro Center (bring receipt; deadline ~Oct 11, purchase date unconfirmed)",
+      "area": "Personal admin",
+      "due_at": "2026-10-03T11:00:00-04:00",
+      "notes": "Added by the Dispatch brief (not from backlog.md). Related: backlog.md L84: Strimer power cable is the one uncontrollable light"
+    },
+    {
+      "title": "Keystone class test: run the page-comprehension sessions you own (test window ends Oct 17)",
+      "area": "School",
+      "due_at": "2026-10-17T09:00:00-04:00",
+      "notes": "backlog.md L88: P2 - graded MVP submission commits Keystone to two dated tests (H1 window 2026-09-22 to 2026-10-17; Max owns the comprehension sessions)"
+    },
+    {
+      "title": "Call Sam at Acme Plumbing - the Aug 5 call never happened",
+      "area": "Coreflow/CLARA",
+      "due_at": null,
+      "notes": "backlog.md L59: P1 - Acme Plumbing call never actually happened (still waiting to call Sam as of 09-02)"
+    },
+    {
+      "title": "Talk to an insurance broker about CLARA's AI-dispatch liability before it runs unsupervised",
+      "area": "Coreflow/CLARA",
+      "due_at": null,
+      "notes": "backlog.md L70: P1 - CLARA needs a broker/coverage-counsel read on AI-dispatch liability"
+    },
+    {
+      "title": "PC workbench Phase 0: set up a backup, a password manager, and save the laptop recovery key",
+      "area": "System improvement",
+      "due_at": null,
+      "notes": "backlog.md L30: P0 - PC workbench plan, Phase 0 cannot wait"
+    },
+    {
+      "title": "Give the MacBook an off-machine backup (external USB drive) - some vault files live only there",
+      "area": "System improvement",
+      "due_at": null,
+      "notes": "backlog.md L31: P0 - part of the vault exists on the MacBook Air and nowhere else"
+    },
+    {
+      "title": "Delete the 3 duplicate scheduled tasks in the Mac Cowork app (weekly digest, earnings sweep, monthly deep lint)",
+      "area": "System improvement",
+      "due_at": null,
+      "notes": "backlog.md L37: P0 - three old scheduled tasks on the Mac duplicate the PC ones (~1 minute, Mac only)"
+    },
+    {
+      "title": "Look up 2026 tuition/fees and total 2026 payments on the 1099 (for the 1099 memo)",
+      "area": "Personal admin",
+      "due_at": null,
+      "notes": "backlog.md L55: example item (details removed)"
+    },
+    {
+      "title": "Decide: pay the PC parts straight from the 1099 income, or pay yourself back from it",
+      "area": "Personal admin",
+      "due_at": null,
+      "notes": "backlog.md L57: example item (details removed)"
+    },
+    {
+      "title": "Tell Claude your expected monthly investing amount after graduating in December",
+      "area": "Portfolio",
+      "due_at": null,
+      "notes": "backlog.md L58: example item (details removed)"
+    },
+    {
+      "title": "Decide where the money for the bike fund comes from",
+      "area": "Portfolio",
+      "due_at": null,
+      "notes": "backlog.md L73: example item (details removed)"
+    },
+    {
+      "title": "Lease renewal: take the early-renewal question to the landlord and set a plan for the lease deposit",
+      "area": "Portfolio",
+      "due_at": null,
+      "notes": "backlog.md L71: example item (details removed)"
+    },
+    {
+      "title": "Decide on renumbering the 9 duplicate section numbers in THESIS_TRACKER",
+      "area": "Portfolio",
+      "due_at": null,
+      "notes": "backlog.md L117: example item (details removed)"
+    },
+    {
+      "title": "Set a real target for XYZ and settle the house-rules numbering gap (rules 8-10)",
+      "area": "Portfolio",
+      "due_at": null,
+      "notes": "backlog.md L68: example item (details removed)"
+    },
+    {
+      "title": "Pick the real target-margin cell (or set a target) in Phase1_Agent_Ledger.xlsx",
+      "area": "Side-venture ideas",
+      "status": "parked",
+      "due_at": null,
+      "notes": "backlog.md L74: example item (details removed)"
+    },
+    {
+      "title": "List any bills outside the 3 streaming subscriptions and the gym (car, phone, loans)",
+      "area": "Personal admin",
+      "due_at": null,
+      "notes": "backlog.md L110: example item (details removed)"
+    },
+    {
+      "title": "Run the git daily loop yourself once for real (status, add, commit, push)",
+      "area": "System improvement",
+      "due_at": null,
+      "notes": "backlog.md L106: example item (details removed)"
+    },
+    {
+      "title": "Plan the electroculture setup in the garden",
+      "area": "Home & life",
+      "due_at": null,
+      "notes": "backlog.md L113: example item (details removed)"
+    }
+  ]
+}

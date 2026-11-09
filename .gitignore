@@ -1,0 +1,12 @@
+# Secrets and local state - never commit these
+.env
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+logs/
+heartbeat.json
+backups/
+__pycache__/
+.pytest_cache/
+*.pyc

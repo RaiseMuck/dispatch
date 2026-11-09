@@ -1,0 +1,6 @@
+# Every text file is stored and checked out with LF line endings, whatever editor or OS
+# touches it (Phase 2.1 review r1: a Windows editor flipped whole files to CRLF once).
+* text=auto eol=lf
+# Calendar fixtures are kept byte-for-byte (the .ics format allows CRLF; tests read them raw).
+*.ics -text
+*.db binary

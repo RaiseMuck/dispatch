@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instructure//Canvas Calendar Feed Sample (Quiz 3 moved to Sun 10/18) for Dispatch tests//EN
+X-WR-CALNAME:Max Williams Calendar (Canvas)
+BEGIN:VEVENT
+UID:event-assignment-1001@osu.instructure.com
+DTSTART:20261019T035900Z
+DTEND:20261017T035900Z
+SUMMARY:Quiz 3: Options Greeks\, delta and gamma [BUSFIN 4229]
+DESCRIPTION:Covers chapters 10-12.\nOpen book\, 45 minutes.
+URL;VALUE=URI:https://example.instructure.com/courses/111/assignments/1001
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-1002@osu.instructure.com
+DTSTART;VALUE=DATE:20261020
+SUMMARY:Costco memo - section drafts due to the group folder for review before t
+ he full-group edit session [BUSMHR 4490]
+URL:https://example.instructure.com/courses/222/assignments/1002
+END:VEVENT
+BEGIN:VEVENT
+UID:event-calendar-event-2001@osu.instructure.com
+DTSTART;TZID=America/New_York:20261012T140000
+DTEND;TZID=America/New_York:20261012T150000
+SUMMARY:Office hours with Prof
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-1003@osu.instructure.com
+DTSTART;TZID=Europe/Berlin:20261014T200000
+SUMMARY:Exchange-partner reading response [BUSMHR 4490]
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-1004@osu.instructure.com
+SUMMARY:No date on this one
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0999@osu.instructure.com
+DTSTART:20260915T035900Z
+SUMMARY:Quiz 1 (already over) [BUSFIN 4229]
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-1005@osu.instructure.com
+DTSTART:20261026T035900Z
+SUMMARY:Draft of Quiz 4 (old title)
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-1005@osu.instructure.com
+DTSTART:20261026T035900Z
+SUMMARY:Quiz 4: Futures pricing [BUSFIN 4229]
+END:VEVENT
+END:VCALENDAR
+
